@@ -8,3 +8,5 @@ The model is a retrained ResNet18 with dropouts. Test accuracy 99.68%.
 The .ipynb file contains the model architecture. The .py file is a webapi ui using streamlit.
 
 Requirements - Torch, Torchvision, Pillow, Streamlit.
+
+Link to storage: [Data and Model](https://drive.google.com/drive/folders/1lodTcVemGSLfRHavzTNpzgQmLKuYpyk9?usp=sharing)
