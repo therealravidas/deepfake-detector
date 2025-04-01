@@ -5,7 +5,7 @@ The dataset contains 65483 images of which 31483 are real images and 34000 are f
 
 The model is a retrained ResNet18 with dropouts. Test accuracy 99.68%.
 
-The .ipynb file contains the model architecture. The .py file is a webapi ui using streamlit.
+The .ipynb file contains the model architecture. The .py file is a Web API UI using streamlit.
 
 Requirements - Torch, Torchvision, Pillow, Streamlit.
 
